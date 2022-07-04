@@ -21,6 +21,7 @@ import { ZoomableSunburstComponent } from './pages/zoomable-sunburst/zoomable-su
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
+import { StreamgraphComponent } from './pages/streamgraph/streamgraph.component';
 
 const routes: Routes = [
   {path:"" , component:HomeComponent , pathMatch:"full"},
@@ -43,7 +44,8 @@ const routes: Routes = [
   {path:"zoomable-circle-packing" , component: ZoomableCirclePackingComponent},
   {path: "zoomable-treemap" , component: ZoomableTreemapComponent},
   {path: "icelandic-population" , component: IcelandicPopulationComponent},
-  {path: "walmarts-growth" , component:  WalmartsGrowthComponent}
+  {path: "walmarts-growth" , component:  WalmartsGrowthComponent},
+  {path: "streamgraph" , component:  StreamgraphComponent}
   
 
   

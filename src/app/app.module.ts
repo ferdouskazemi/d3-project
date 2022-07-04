@@ -27,6 +27,7 @@ import { ZoomableCirclePackingComponent } from './pages/zoomable-circle-packing/
 import { ZoomableTreemapComponent } from './pages/zoomable-treemap/zoomable-treemap.component';
 import { IcelandicPopulationComponent } from './pages/icelandic-population/icelandic-population.component';
 import { WalmartsGrowthComponent } from './pages/walmarts-growth/walmarts-growth.component';
+import { StreamgraphComponent } from './pages/streamgraph/streamgraph.component';
 
 @NgModule({
   declarations: [
@@ -53,7 +54,8 @@ import { WalmartsGrowthComponent } from './pages/walmarts-growth/walmarts-growth
     ZoomableCirclePackingComponent,
     ZoomableTreemapComponent,
     IcelandicPopulationComponent,
-    WalmartsGrowthComponent
+    WalmartsGrowthComponent,
+    StreamgraphComponent
   ],
   imports: [
     BrowserModule,
