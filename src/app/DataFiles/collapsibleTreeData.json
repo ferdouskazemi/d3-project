@@ -1,0 +1,1002 @@
+{
+    "name": "Invoice 5775",
+    "value": 118877.0,
+    "children": [
+      {
+        "name": "Bill - #B",
+        "value": 2486.0,
+        "children": [
+          {
+            "name": "B22",
+            "value": 2486.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 022100",
+        "value": 550.0,
+        "children": [
+          {
+            "name": "MA107",
+            "value": 550.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 0229371",
+        "value": 2900.0,
+        "children": [
+          {
+            "name": "LV579",
+            "value": 900.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LV580",
+            "value": 2000.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 1002",
+        "value": 1500.0,
+        "children": [
+          {
+            "name": "LV464",
+            "value": 1500.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 135034",
+        "value": 2170.0,
+        "children": [
+          {
+            "name": "LV487",
+            "value": 1230.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LV494",
+            "value": 340.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LV506",
+            "value": 600.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 17544",
+        "value": 235.0,
+        "children": [
+          {
+            "name": "QFR15",
+            "value": 235.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 17561",
+        "value": 1000.0,
+        "children": [
+          {
+            "name": "MA82",
+            "value": 500.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "MA83",
+            "value": 500.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 37202",
+        "value": 272.0,
+        "children": [
+          {
+            "name": "LJ23",
+            "value": 135.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "RX109",
+            "value": 137.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 45024",
+        "value": 900.0,
+        "children": [
+          {
+            "name": "LV656",
+            "value": 900.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 604701",
+        "value": 1300.0,
+        "children": [
+          {
+            "name": "LV551",
+            "value": 625.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LV563",
+            "value": 675.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - 712112/712117",
+        "value": 3200.0,
+        "children": [
+          {
+            "name": "LV517",
+            "value": 1000.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LV528",
+            "value": 700.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LV532",
+            "value": 1500.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - AL BATCH",
+        "value": 370.0,
+        "children": [
+          {
+            "name": "AL53",
+            "value": 370.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - BATCH LA",
+        "value": 19650.0,
+        "children": [
+          {
+            "name": "LA126",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA127",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA128",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA129",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA130",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA131",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA132",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA133",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA134",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA135",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA136",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA137",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA138",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA139",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA140",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA141",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA142",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA143",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA144",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA145",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA146",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA147",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA148",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA149",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA150",
+            "value": 386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA241",
+            "value": 486.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA242",
+            "value": 486.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA243",
+            "value": 486.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA244",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA245",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA246",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA247",
+            "value": 480.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA248",
+            "value": 480.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA249",
+            "value": 480.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA250",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA251",
+            "value": 1586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA252",
+            "value": 1586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA253",
+            "value": 1586.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - BB batch",
+        "value": 2386.0,
+        "children": [
+          {
+            "name": "BB12",
+            "value": 2386.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - C2 INV",
+        "value": 206.0,
+        "children": [
+          {
+            "name": "JR20",
+            "value": 206.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - D Inv",
+        "value": 3986.0,
+        "children": [
+          {
+            "name": "rx5180",
+            "value": 1012.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "scx205",
+            "value": 176.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "siw032",
+            "value": 1174.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "siw171",
+            "value": 1624.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - EB  Batch",
+        "value": 900.0,
+        "children": [
+          {
+            "name": "EB142",
+            "value": 760.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "EB154",
+            "value": 140.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - GG - NEW",
+        "value": 2096.0,
+        "children": [
+          {
+            "name": "GG48",
+            "value": 2096.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - J INV",
+        "value": 4971.0,
+        "children": [
+          {
+            "name": "J6521",
+            "value": 445.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J6634",
+            "value": 140.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J678",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J679",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J681",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J687",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J7170",
+            "value": 66.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J807",
+            "value": 2600.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J809",
+            "value": 99.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J810",
+            "value": 99.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J817",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J841",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J843",
+            "value": 66.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J883",
+            "value": 66.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J947",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J948",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J949",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J950",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "J952",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "JA43",
+            "value": 246.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "JSD32",
+            "value": 66.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "TD621",
+            "value": 66.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "TD637",
+            "value": 66.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - LA BATCH",
+        "value": 61024.0,
+        "children": [
+          {
+            "name": "LA201",
+            "value": 1600.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA202",
+            "value": 2000.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA203",
+            "value": 1600.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA204",
+            "value": 1600.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA205",
+            "value": 1600.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA206",
+            "value": 1600.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA207",
+            "value": 1600.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA208",
+            "value": 1500.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA209",
+            "value": 1200.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA210",
+            "value": 1200.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA211",
+            "value": 1200.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA212",
+            "value": 1200.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA213",
+            "value": 1386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA214",
+            "value": 1386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA215",
+            "value": 1386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA216",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA217",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA218",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA219",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA220",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA221",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA222",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA223",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA224",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA225",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA226",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA227",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA228",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA229",
+            "value": 586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA230",
+            "value": 1136.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA231",
+            "value": 1102.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA232",
+            "value": 1586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA233",
+            "value": 486.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA234",
+            "value": 486.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA235",
+            "value": 1586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA236",
+            "value": 1286.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA237",
+            "value": 1586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA238",
+            "value": 1586.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA239",
+            "value": 1786.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA240",
+            "value": 2936.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA254",
+            "value": 2386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA255",
+            "value": 2386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA256",
+            "value": 2386.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA257",
+            "value": 2186.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA258",
+            "value": 1986.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA259",
+            "value": 1885.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LA260",
+            "value": 1985.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - LV - BATCH",
+        "value": 1615.0,
+        "children": [
+          {
+            "name": "LV60",
+            "value": 765.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LV65",
+            "value": 850.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - RC",
+        "value": 2545.0,
+        "children": [
+          {
+            "name": "LV338",
+            "value": 1100.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "LV394",
+            "value": 1445.0,
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill - Y BATCH",
+        "value": 180.0,
+        "children": [
+          {
+            "name": "Y120",
+            "value": 86.0,
+            "children": [
+            ]
+          },
+          {
+            "name": "Y130",
+            "value": 94.0,
+            "children": [
+            ]
+          }
+        ]
+      }
+    ]
+  }
