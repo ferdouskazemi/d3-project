@@ -12,8 +12,11 @@ import * as d3 from 'd3';
 })
  export class BarChartRaceComponent implements OnInit {
 
+
   userArray: BarChart[] = [];
-  constructor(private http: HttpClient) { }
+  arrayBuffer:any;
+  constructor(private http: HttpClient) {
+   }
 
   async ngOnInit(): Promise<void> {
 
@@ -44,13 +47,6 @@ import * as d3 from 'd3';
     // console.log("FileAttachment");
     // console.log(FileAttachment);
 
-
-
-
-
-
-    
-
     var elem = document.createElement('div');
     elem.style.cssText = 'widht:80%; height:fit-content; padding: 20px;margin:auto;';
     var chart = document.querySelector('#chart-bar-chart-race');
@@ -58,6 +54,9 @@ import * as d3 from 'd3';
     const runtime = new Runtime();
     runtime.module(define, Inspector.into(elem));
   }
+
+  
+
 
 }
 
